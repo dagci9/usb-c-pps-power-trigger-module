@@ -33,8 +33,7 @@ Looking to integrate this power module into your own designs or manufacture it i
 
 The complete production-ready engineering package is available for purchase:
 
-### [👉 Get Full Altium Design Files & Production Gerbers on Gumroad](BURAYA_GUMROAD_LINKI_GELECEK)
-
+### [👉 Get Full Altium Design Files & Production Gerbers on Gumroad](https://2948020783586.gumroad.com/l/usbc-pd-trigger)
 **What is included in the download package:**
 - Complete Altium Designer Project (`.PrjPcb`, `.SchDoc`, `.PcbDoc`, Footprints & Symbols)
 - Factory-verified Gerber & NC Drill (Inches 2:5 format, G85 slot command enabled)
